@@ -1,6 +1,6 @@
 # Moviles-1
 ## Repositorio de aplicaciones.
-Repositorio con los enlaces de proyectos desarrollados en el segundo corte del curso de moviles-1
+Repositorio con los enlaces de proyectos desarrollados en la asignatura de moviles-1.
 
 ### [Aplicacion de suma](https://github.com/IAN63k/app-suma-andorid-studio)
 ### [Aplicacion de operaciones con RadioButton](https://github.com/IAN63k/app-operaciones-radioButton-andorid-studio)
